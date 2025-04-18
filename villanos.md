@@ -2,4 +2,6 @@
 
 * Dr. Doom
 * Red Skull
-* Dr. Jose Gutierrez
+
+
+* CAPITAN AMERICA
